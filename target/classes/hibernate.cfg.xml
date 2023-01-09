@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/sakila?useTimezone=true&amp;serverTimezone=Turkey</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">1234</property>
+        <property name="hibernate.connection.pool_size">1</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+
+        <mapping class="com.uniyaz.actor.domain.Actor"></mapping>
+        <mapping class="com.uniyaz.city.domain.City"></mapping>
+        <mapping class="com.uniyaz.country.domain.Country"></mapping>
+        <mapping class="com.uniyaz.film.domain.Film"></mapping>
+        <mapping class="com.uniyaz.film_actor.domain.FilmActor"></mapping>
+        <mapping class="com.uniyaz.category.domain.Category"></mapping>
+        <mapping class="com.uniyaz.language.domain.Language"></mapping>
+        <mapping class="com.uniyaz.film_category.domain.FilmCategory"></mapping>
+        <mapping class="com.uniyaz.film_text.domain.FilmText"></mapping>
+        <mapping class="com.uniyaz.address.domain.Address"></mapping>
+        <mapping class="com.uniyaz.store.domain.Store"></mapping>
+        <mapping class="com.uniyaz.staff.domain.Staff"></mapping>
+        <mapping class="com.uniyaz.inventory.domain.Inventory"></mapping>
+        <mapping class="com.uniyaz.rental.domain.Rental"></mapping>
+        <mapping class="com.uniyaz.customer.domain.Customer"></mapping>
+        <mapping class="com.uniyaz.payment.domain.Payment"></mapping>
+    </session-factory>
+</hibernate-configuration>

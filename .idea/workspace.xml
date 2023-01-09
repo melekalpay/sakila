@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28276cbb-01d3-4f9b-a6aa-b255d39fefd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JxOtpldKuv9NPi9ixNt2kW7xfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="9f27651d-dfb1-4fd5-9935-4d8184b2cb52" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder/sakila1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.uniyaz.film_actor.service" />
+      <recent name="com.uniyaz.film_actor.domain" />
+      <recent name="com.uniyaz.film_actor.dao" />
+      <recent name="com.uniyaz.film.service" />
+      <recent name="com.uniyaz.film.domain" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="com.uniyaz.actor" />
+      <recent name="com.uniyaz.city" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\sakiladatabase\sakila\src\main\resources" />
+      <recent name="C:\Java\sakiladatabase\sakila\src\main\java\com\uniyaz\store" />
+      <recent name="C:\Java\sakiladatabase\sakila\src\main\java\com\uniyaz\staff" />
+      <recent name="C:\Java\sakiladatabase\sakila\src\main\java\com\uniyaz\rental" />
+      <recent name="C:\Java\sakiladatabase\sakila\src\main\java\com\uniyaz\payment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FilmActorServiceTest.findAllTest">
+    <configuration name="FilmActorServiceTest.findAllByActorName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sakila" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uniyaz.filmactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uniyaz.filmactor" />
+      <option name="MAIN_CLASS_NAME" value="com.uniyaz.filmactor.FilmActorServiceTest" />
+      <option name="METHOD_NAME" value="findAllByActorName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmActorServiceTest.findAllByQueryFilterDto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sakila" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uniyaz.filmactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uniyaz.filmactor" />
+      <option name="MAIN_CLASS_NAME" value="com.uniyaz.filmactor.FilmActorServiceTest" />
+      <option name="METHOD_NAME" value="findAllByQueryFilterDto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmActorServiceTest.findAllByQueryFilterDtoCriteria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sakila" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uniyaz.filmactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uniyaz.filmactor" />
+      <option name="MAIN_CLASS_NAME" value="com.uniyaz.filmactor.FilmActorServiceTest" />
+      <option name="METHOD_NAME" value="findAllByQueryFilterDtoCriteria" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmActorServiceTest.findAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sakila" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uniyaz.filmactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uniyaz.filmactor" />
+      <option name="MAIN_CLASS_NAME" value="com.uniyaz.filmactor.FilmActorServiceTest" />
+      <option name="METHOD_NAME" value="findAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmCategoryServiceTest.findAllByCategoryName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sakila" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uniyaz.filmcategory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uniyaz.filmcategory" />
+      <option name="MAIN_CLASS_NAME" value="com.uniyaz.filmcategory.FilmCategoryServiceTest" />
+      <option name="METHOD_NAME" value="findAllByCategoryName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FilmActorServiceTest.findAllTest" />
+        <item itemvalue="JUnit.FilmActorServiceTest.findAllByActorName" />
+        <item itemvalue="JUnit.FilmCategoryServiceTest.findAllByCategoryName" />
+        <item itemvalue="JUnit.FilmActorServiceTest.findAllByQueryFilterDtoCriteria" />
+        <item itemvalue="JUnit.FilmActorServiceTest.findAllByQueryFilterDto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28276cbb-01d3-4f9b-a6aa-b255d39fefd2" name="Default Changelist" comment="" />
+      <created>1673016484468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673016484468</updated>
+      <workItem from="1673016491126" duration="1375000" />
+      <workItem from="1673020651306" duration="3741000" />
+      <workItem from="1673106806077" duration="1420000" />
+      <workItem from="1673108313380" duration="23511000" />
+      <workItem from="1673171173422" duration="9914000" />
+      <workItem from="1673186812135" duration="811000" />
+      <workItem from="1673206111579" duration="10838000" />
+      <workItem from="1673258896626" duration="961000" />
+      <workItem from="1673260934526" duration="1247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Assign_Data_Sources" timestamp="1673108947260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1673108947260" />
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673020925759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673020925759" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1673249372479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1673249372479" />
+    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1673021183666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673021183666" />
+    <state x="649" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1673258943717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673258943717" />
+    <state x="761" y="389" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1673131173059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="389" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1673131173059" />
+    <state x="584" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1673248960893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673248960893" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1673021380175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673021380175" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1673108749401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1673108749401" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1673262185580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1673262185580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1673262185580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1673262185580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1673262185580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1673262185580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1673262185580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1673262185580" />
+    <state width="1877" height="122" key="GridCell.Tab.1.bottom" timestamp="1673259862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1673259862233" />
+    <state width="1877" height="122" key="GridCell.Tab.1.center" timestamp="1673259862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1673259862233" />
+    <state width="1877" height="122" key="GridCell.Tab.1.left" timestamp="1673259862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1673259862233" />
+    <state width="1877" height="122" key="GridCell.Tab.1.right" timestamp="1673259862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1673259862233" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1673020945283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1673020945283" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1673260935107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1673260935107" />
+  </component>
+</project>
